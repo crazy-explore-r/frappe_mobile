@@ -11,7 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "scheme": "io.frappe.changemakers",
+    "scheme": "dev.noveloffice.in",
     "assetBundlePatterns": [
       "**/*"
     ],
@@ -26,7 +26,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "io.frappe.changemakers"
+      "package": "dev.noveloffice.in"
     },
     "web": {
       "favicon": "./assets/favicon.png"
